@@ -1,0 +1,17 @@
+{
+  "name": "icelerio",
+  "version": "1.0.0",
+  "description": "assignment for icelerio",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kunal thool",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.584.0",
+    "serverless-dynamodb-local": "^0.2.35",
+    "serverless-offline": "^5.12.1",
+    "uuid": "^3.3.3"
+  },
+  "devDependencies": {}
+}
